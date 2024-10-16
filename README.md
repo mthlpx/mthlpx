@@ -3,7 +3,7 @@
 
 ![mthlpx GitHub stats](https://github-readme-stats.vercel.app/api?username=mthlpx&show_icons=true&theme=dark)
 
-<div style"display: inline_block"><br/>
+<div styLe="display: inline_block"><br/>
 	<img align="center" alt="java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 	<img align="center" alt="intellij" scr="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
