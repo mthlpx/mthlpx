@@ -1,7 +1,7 @@
 
 ### não fode 🖕
 ### ㅤ
-O que importa se você tem olhos verdes... se o vermelho dos meus refletem o verde da natureza...
+O que importa se você tem olhos verdes... se o vermelho dos meus refletem o verdadeiro verde...
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
