@@ -1,6 +1,3 @@
-
-### não fode 🖕
-### ㅤ
 O que importa se você tem olhos verdes... se o vermelho dos meus refletem o verdadeiro verde...
 
 
