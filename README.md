@@ -1,4 +1,4 @@
-O que importa se você tem olhos verdes... se o vermelho dos meus refletem o verdadeiro verde...
+Desenvolvedor Back-End | Java | SQL Server, MySQL | Git, GitHub
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
